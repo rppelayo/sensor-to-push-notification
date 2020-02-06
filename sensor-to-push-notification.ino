@@ -9,8 +9,8 @@
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid     = "PLDTHOMEFIBRjVZpa";
-const char* password = "stacey0921";
+const char* ssid     = "<your WiFi SSID>";
+const char* password = "<your WiFi password>";
 
 const char* host = "api.pushingbox.com";
 const char* devid = "v2EF6529B2FD9B38";
